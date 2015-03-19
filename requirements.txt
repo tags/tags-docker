@@ -1,0 +1,10 @@
+pandas
+python-dateutil==1.5
+amqp
+anyjson
+billiard==2.7.3.12
+celery==3.0.5
+geojson==1.0.1
+kombu==2.3.2
+ordereddict==1.1
+pymongo==2.1
