@@ -15,5 +15,5 @@ RUN mkdir /opt/celeryq
 WORKDIR /opt/celeryq
 ADD requirements.txt /opt/celeryq/requirements.txt
 ADD geologger /opt/celeryq/geologger
-RUN pip install -r /opt/celeryq/requirements.txt  
+RUN pip install -r /opt/celeryq/requirements.html  
 
